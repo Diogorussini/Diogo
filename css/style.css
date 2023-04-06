@@ -1,0 +1,29 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    background-color: rgb(48, 94, 4);
+    display: flex;
+    justify-content: space-between;
+}
+
+header img {
+    width: 64px;
+    height: 64px;
+}
+
+nav a{
+    color: rgb(9, 255, 0);
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer {
+    background-color: rgb(11, 146, 187);
+
+}
